@@ -11,9 +11,8 @@ ebay.com##.vi-lb-placeholder
 ebay.ca###vas-container
 ebay.com###vas-container
 
-ebay.com##.x-merch-nori:nth-child(1)
-ebay.com##.x-merch-nori:nth-child(2)
-ebay.com##.x-merch-nori:nth-child(6)
+ebay.ca##div.x-merch-nori
+ebay.com##div.x-merch-nori
 
 store.steampowered.com###franchise_block
 store.steampowered.com###recommended_block
