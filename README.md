@@ -1,1 +1,1 @@
-# config-adguard
+# config-adblock
