@@ -10,6 +10,8 @@ ebay.ca##.vi-lb-placeholder
 ebay.com##.vi-lb-placeholder
 ebay.ca###vas-container
 ebay.com###vas-container
+ebay.ca##.recs-module
+ebay.com##.recs-module
 
 ebay.ca##div.x-merch-nori
 ebay.com##div.x-merch-nori
