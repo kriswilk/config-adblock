@@ -3,6 +3,7 @@ canadapost-postescanada.ca##.track-banner-container
 canadapost-postescanada.ca##.cbsa
 
 ebay.*##.x-merch-nori
+ebay.*##.x-pda-placements
 ebay.*##.x-rx-slot
 ebay.*##.x-rx-slot-btf
 
