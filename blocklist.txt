@@ -2,6 +2,7 @@ canadapost-postescanada.ca###covid_info_for_desktop
 canadapost-postescanada.ca##.track-banner-container
 canadapost-postescanada.ca##.cbsa
 
+ebay.*##.x-merch-nori
 ebay.*##.x-rx-slot
 ebay.*##.x-rx-slot-btf
 
