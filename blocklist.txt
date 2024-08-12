@@ -2,20 +2,16 @@ canadapost-postescanada.ca###covid_info_for_desktop
 canadapost-postescanada.ca##.track-banner-container
 canadapost-postescanada.ca##.cbsa
 
-ebay.ca##.recs-module
-ebay.com##.recs-module
+ebay.*##.x-rx-slot
+ebay.*##.x-rx-slot-btf
 
 !below are probably old, no longer needed?
-!ebay.ca###rwid
-!ebay.com###rwid
-!ebay.ca##.merch-module
-!ebay.com##.merch-module
-!ebay.ca##.vi-lb-placeholder
-!ebay.com##.vi-lb-placeholder
-!ebay.ca###vas-container
-!ebay.com###vas-container
-!ebay.ca##div.x-merch-nori
-!ebay.com##div.x-merch-nori
+!ebay.*##.recs-module
+!ebay.*###rwid
+!ebay.*##.merch-module
+!ebay.*##.vi-lb-placeholder
+!ebay.*###vas-container
+!ebay.*##div.x-merch-nori
 
 store.steampowered.com###franchise_block
 store.steampowered.com###recommended_block
