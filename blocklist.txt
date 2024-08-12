@@ -5,14 +5,6 @@ canadapost-postescanada.ca##.cbsa
 ebay.*##.x-rx-slot
 ebay.*##.x-rx-slot-btf
 
-!below are probably old, no longer needed?
-!ebay.*##.recs-module
-!ebay.*###rwid
-!ebay.*##.merch-module
-!ebay.*##.vi-lb-placeholder
-!ebay.*###vas-container
-!ebay.*##div.x-merch-nori
-
 store.steampowered.com###franchise_block
 store.steampowered.com###recommended_block
 store.steampowered.com###steam-charts
