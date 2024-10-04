@@ -2,11 +2,11 @@ canadapost-postescanada.ca###covid_info_for_desktop
 canadapost-postescanada.ca##.track-banner-container
 canadapost-postescanada.ca##.cbsa
 
-||ir.ebaystatic.com/cr/ads/$script,domain=www.ebay.com
+||ir.ebaystatic.com/cr/ads/$script,domain=ebay.*
 ebay.*###CenterPanel div[data-slot^="PLACEMENT_"]
 ebay.*##div[class$="main-container__bottom-panel"] div[data-slot^="PLACEMENT_"]
 ebay.*##div[data-testid^="x-rx-slot-btf-"]:has(div[id^="placement"])
-ebay.*##.x-rx-slot
+ebay.*##.x-evo-atf-top-river .x-rx-slot
 
 store.steampowered.com###franchise_block
 store.steampowered.com###recommended_block
