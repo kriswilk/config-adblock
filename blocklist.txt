@@ -8,6 +8,8 @@ ebay.*##div[class$="main-container__bottom-panel"] div[data-slot^="PLACEMENT_"]
 ebay.*##div[data-testid^="x-rx-slot-btf-"]:has(div[id^="placement"])
 ebay.*##.x-evo-atf-top-river .x-rx-slot
 
+ebay.*##.stream-slot
+
 store.steampowered.com###franchise_block
 store.steampowered.com###recommended_block
 store.steampowered.com###steam-charts
